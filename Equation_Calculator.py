@@ -1,3 +1,3 @@
-# Getting data from user in euation format and print the result
+# Get data from user in equation format and print the result
 equation = eval(input("Enter your equation: "))
-print (equation)
+print ("Answer : ", equation)
