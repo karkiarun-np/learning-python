@@ -24,7 +24,7 @@ Welcome to my GitHub repository. This space serves as a digital journal of my tr
 
 ## 📈 Learning Roadmap
 - [x] Set up GitHub profile and initial repository.
-- [ ] Complete basic Python syntax training.
+- [ ] Master python basic.
 - [ ] Perform historical dividend analysis using Pandas.
 - [ ] Create a dashboard for technical and fundamental stock analysis.
 
